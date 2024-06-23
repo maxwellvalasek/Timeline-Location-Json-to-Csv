@@ -19,10 +19,10 @@ The output file contains the following columns:
 ## Requirements
 **location-history.json**: This is can be downloaded from the Google Maps mobile app.
 1. Open the Google Maps app on your phone.
-2. Tap on the menu icon (top right corner) and select "Settings".
-3. Scroll down to "Location History" and tap on "Download".
-4. Select "JSON" as the file format and tap "Download".
-5. Place the file in the same directory as the script.
+2. Tap on the profile icon (top right corner).
+3. Scroll down and select to "Your Timeline".
+4. Press "..." in the top right corner, and then "Settings and privacy"
+5. Scroll down and select "Export Timeline Data"
 
 **Install pytz for timezone handling:**
 
