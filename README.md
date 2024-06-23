@@ -31,7 +31,8 @@ The output file contains the following columns:
 
 ## Usage
 
-
+Clone the reposity
+    Place 'location-history.json' into the root directory.
 
 To use the script, run the following command:
 
